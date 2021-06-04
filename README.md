@@ -30,4 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Topic covered in this project -
 
-Interpolation, component, module, Various events, property binding, Conditions(ngIf), Switch case(ngSwitch), For loop(ngFor), normal form, header and footer component, style binding, ng-bootstrap, data transfer between components, 
+Interpolation, component, module, Various events, property binding, Conditions(ngIf), Switch case(ngSwitch), For loop(ngFor), normal form, header and footer component, style binding, ng-bootstrap, data transfer between components, pipes, 

@@ -42,4 +42,6 @@ export class AppComponent {
   parentFunction(data){
       console.log(data);
   }
+  NAME = "peter parker";
+  today = Date.now();
 }
